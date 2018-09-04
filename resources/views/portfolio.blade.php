@@ -16,14 +16,37 @@
   </div>
 </section>
 <!-- End banner Area -->
+
+
+<!--github area-->
+<section class="portfolio-area section-gap" id="portfolio">
+    <div class="container">
+      <div class="row d-flex justify-content-center">
+          <div class="menu-content pb-70 col-lg-8">
+              <div class="title text-center">
+                  <h1 class="mb-10">Mes travaux sur Github</h1>
+                  <p>Qui est la première plateoforme collaborative pour programmeurs</p>
+              </div>
+          </div>
+      </div>
+      <div class="row d-flex justify-content-center">
+          <div class="menu-content pb-70 col-lg-12">
+            <a href="https://github.com/daviidy" target="_blank">
+              <img src="/personal/img/github.png" alt="">
+            </a>
+          </div>
+      </div>
+    </div>
+
+
 <!-- Start portfolio-area Area -->
 <section class="portfolio-area section-gap" id="portfolio">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="menu-content pb-70 col-lg-8">
                 <div class="title text-center">
-                    <h1 class="mb-10">Quelques uns de mes travaux</h1>
-                    <p>Qui ont aidé de nombreuses personnes</p>
+                    <h1 class="mb-10">Quelques uns des projets sur lesquels j'ai travaillé</h1>
+                    <p>Et qui ont aidé de nombreuses personnes</p>
                 </div>
             </div>
         </div>
@@ -148,6 +171,6 @@
 
     </div>
 </section>
-<!-- End portfolio-area Area -->	
+<!-- End portfolio-area Area -->
 
 @endsection

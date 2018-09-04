@@ -124,8 +124,8 @@
         <div class="row d-flex justify-content-center">
             <div class="menu-content pb-70 col-lg-8">
                 <div class="title text-center">
-                    <h1 class="mb-10">Quelques uns de mes travaux</h1>
-                    <p>Qui ont aidé de nombreuses personnes</p>
+                    <h1 class="mb-10">Quelques uns des projets sur lesquels j'ai travaillé</h1>
+                    <p>Et qui ont aidé de nombreuses personnes</p>
                 </div>
             </div>
         </div>
