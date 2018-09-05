@@ -42,7 +42,7 @@
 <div class="left-col-block blocks">
     <header class="header theiaStickySidebar">
         <div class="profile-img">
-            <img src="/personal/img/dave-img.png" class="img-responsive" alt=""/>
+            <img src="/personal/img/dave-img.PNG" class="img-responsive" alt=""/>
         </div>
         <div class="content">
             <h1>David YAO</h1>
