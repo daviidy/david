@@ -37,6 +37,7 @@
           </div>
       </div>
     </div>
+  </section>
 
 
 <!-- Start portfolio-area Area -->
