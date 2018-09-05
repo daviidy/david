@@ -15,7 +15,7 @@
                 <a href="#" class="primary-btn text-uppercase">En savoir plus</a>
             </div>
             <div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
-                <img class="img-fluid" src="/personal/img/dave-img.png" alt="">
+                <img class="img-fluid" src="/personal/img/dave-img.PNG" alt="">
             </div>
         </div>
     </div>
